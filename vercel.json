@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://zokraax.pro/ZMDlALby2D7w/:path",
+      "permanent": true
+    }
+  ]
+}
